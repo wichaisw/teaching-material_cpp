@@ -1,0 +1,3 @@
+﻿  binary-search.cpp
+C:\Users\wichai.sw19\source\repos\binary-search\binary-search\binary-search.cpp(47,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  binary-search.vcxproj -> C:\Users\wichai.sw19\source\repos\binary-search\Debug\binary-search.exe
